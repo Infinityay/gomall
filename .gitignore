@@ -1,0 +1,6 @@
+# VS Code workspace files
+*.code-workspace
+
+
+.env
+.env.*
